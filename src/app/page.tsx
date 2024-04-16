@@ -1,7 +1,8 @@
 export default function Home() {
   return (
     <>
-      <p>hello</p>
+      <div className=" container w-full"></div>
+      <p className="text-4xl">hello</p>
     </>
   );
 }
